@@ -71,7 +71,7 @@ De Vreese 2005: a frame is an emphasis [...] of different aspects of a topic.
 
 Listen what our experts have to say about the impact of Science Communication: 
 
-!?[⏯](video/course2-clip1.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Ruxandra Comanaru, City St George's, University of London")
+!?[⏯](video/course2-clip1.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Ruxandra Comanaru, City St George's, University of London" )
 
 In science communication, you can give meaning to your results by communicating them in a deliberate way. The usual way to do this is by engaging with the academic community – by going to conferences, visiting other academic institutions, attending workshops, publishing in academic journals. However, this is not the only way to communicate and frame your research results.  
 
@@ -103,7 +103,7 @@ You start to think about different, more creative ways to disseminate your resea
 
 By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it!  
 
-!?[⏯](video/course2-clip2.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute")
+!?[⏯](video/course2-clip2.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
 In a nutshell, this means that science communication is something else than what we typically think of when we think about where researchers present their work, to whom, and how. 
 
@@ -152,7 +152,7 @@ Science communication is – in contrast to publications in high ranking academi
 
 There are several reasons: First, you are the person who is most excited about your research, and you know which impact it can have on people’s lives! This means that you are the best person to let others know what you are working on, and explain to them in tangible ways why what you do matters. Keep in mind that this is a bit different than what reviewers expect when they ask you why the research gap you are closing matters: This is more about the implications of your findings. Think about why anyone who is not an expert in your filed, has read all recent articles and understands the literature should be excited, curious and wanting more!   
 
-!?[⏯](video/course2-clip3.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute")
+!?[⏯](video/course2-clip3.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
 Implications of research do not only matter to the individuals who are affected by them, but are also a way for policy makers to make more informed and thus better decisions for their constituents. Now, most policy makers do not have the capacity to keep If scientific findings are not communicated outside of academia, policy makers face the challenge to make decisions without evidence, and the public might have to rely on misinformation or lacks knowledge to adequately judge information.  
 
@@ -188,7 +188,7 @@ Why isn’t dissemination of research results to non-academic audiences always d
 
 Look at what our academic experts have identified as these obstacles: 
 
-!?[⏯](video/course2-clip4.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute")
+!?[⏯](video/course2-clip4.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
 Read more on who to tackle these obstacles now and press [next](#8) to learn who to address, how, why and where! 
 
@@ -210,12 +210,12 @@ Take a look at one of the Topline reports our colleagues produced. XXX You can s
 
 Visualisation of data is a powerful tool to present your results in a way your audience can easily digest and for you to get the information across. Let us take a look at what our experts have to say about what visualisations actually are:  
 
-!?[⏯](video/course2-clip5.mp4 "Excerpt from the Infra4NextGen webinar on [*DAta Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck")
+!?[⏯](video/course2-clip5.mp4 "Excerpt from the Infra4NextGen webinar on [*DAta Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
 
 What now makes a graph a good graph? Similarly, what makes a text a good text or a table a good table? In science communication you will always face the tradeoff between simplicity and complexity. Getting that balance right for your audience (non-academic, non-specialised, different method skills) is crucial to effective communication: It should reduce the complexity of what is shown in a manner that you can make sure your audience gets what you are saying! 
 
-!?[⏯](video/course2-clip6.mp4 "Excerpt from the Infra4NextGen webinar on [*DAta Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck")
+!?[⏯](video/course2-clip6.mp4 "Excerpt from the Infra4NextGen webinar on [*DAta Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
 Remember, when you communicate your research findings you are telling a story! The more engaging you combine visualisation, texts and tables the better your audience can follow you! Now, think back to the beginning of this course and the concept of frames. Here is where they become relevant to your work: How do you want to frame your research? What is the story you want to tell?  
 
@@ -266,6 +266,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
