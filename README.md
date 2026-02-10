@@ -8,7 +8,11 @@ date: "2026-02-04"
 
 Welcome to the Science Communication Course! This course is designed to introduce learners to the ideas of Science Communcation, and to give them a hands-on checklist to use oractically in their work.
 
-You can start the course via this link: [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/hirschlisa/sciencecommunication/refs/heads/Course_science_comm_09022026.md)
+You can start the course via this link: [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/hirschlisa/sciencecommunication/blob/main/Course_science_comm_09022026.md)
+
+(https://liascript.github.io/course/?https://raw.githubusercontent.com/hirschlisa/sciencecommunication/blob/main/Course_science_comm_09022026.md)
+(https://liascript.github.io/course/?https://raw.githubusercontent.com/hirschlisa/sciencecommunication/refs/heads/main/Course_science_comm_09022026.md)
+
 
 ## How to cite this course
 Hirsch, Lisa (2026): Science Communication. https://raw.githubusercontent.com/hirschlisa/sciencecommunication/refs/heads/main/Course_science_comm_09022026.md
@@ -43,6 +47,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
