@@ -71,7 +71,7 @@ De Vreese 2005: a frame is an emphasis [...] of different aspects of a topic.
 
 Listen what our experts have to say about the impact of Science Communication: 
 
-!?[⏯](video/course2-clip1.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Ruxandra Comanaru, City St George's, University of London" )
+!?[⏯](video/course2-clip1.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://infra4nextgen.com/events/webinar-connect-social-research-public-policymakers/)), speaker: Ruxandra Comanaru, City St George's, University of London" )
 
 In science communication, you can give meaning to your results by communicating them in a deliberate way. The usual way to do this is by engaging with the academic community – by going to conferences, visiting other academic institutions, attending workshops, publishing in academic journals. However, this is not the only way to communicate and frame your research results.  
 
@@ -266,6 +266,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
