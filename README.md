@@ -3,7 +3,7 @@ title: "README"
 output: html_document
 date: "2026-02-04"
 ---
-# Science Communcation 
+# Science Communication 
   
 
 Welcome to the Science Communication Course! This course is designed to introduce learners to the ideas of Science Communcation, and to give them a hands-on checklist to use oractically in their work.
@@ -44,6 +44,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
