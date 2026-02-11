@@ -14,9 +14,9 @@ Welcome to the [Infra4NextGen](https://infra4nextgen.com/) course on Science Com
 
 This course introduces the basics of Science Communication and how to put these into practice.  
 
-[Section 1](#3): Basics of Science communication: what, and why 
+[Section 1](#3): Basics of Science Communication: what, and why 
 
-[Section 2](#7): The big 4: who, how, why and where?
+[Section 2](#7): The Big 4: who, how, why and where?
 
 [Section 3](#12): Checklist   
 
@@ -58,7 +58,7 @@ Go ahead to [Section 1 on the basics of Science Communication](#3)!
 
 # Section 1: Basics of Science communication: what, and why 
 
-In this section you will read up on the basics of Science communication: what is it, and why does it matter? We want to set you up to understand the basics, before showing you how to actually engage in Science Communication yourself!  
+In this section you will read up on the basics of Science Communication: what is it, and why does it matter? We want to set you up to understand the basics, before showing you how to actually engage in Science Communication yourself!  
 
 ## 1.1 What is Science Communication?
 Science communication is all communication efforts about science, scientific results and findings. Communication research uses the concept of framing to underline that communication only gets meaning in its context and depends on how a message is being constructed – or “framed”. Take a look at different definitions below:  
@@ -103,7 +103,7 @@ But what more could you do? Your university might have a Third Mission statement
 
 You start to think about different, more creative ways to disseminate your research outputs: Going on a podcast, posting to various social media outlets, giving interviews to journalists, visualising your research findings in a dynamic dashboard, attending a Science Slam event in your area. 
 
-The list is endless. Which target group can you now reach through these additional outlets?  By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it!  
+The list is endless. Which target group can you now reach through these additional outlets?  By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it!  Watch the video below to see what our experts think about why bringing research results to the public eye matters.
 
 !?[⏯](video/course2-clip2.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
@@ -152,7 +152,7 @@ Science communication is – in contrast to publications in high ranking academi
 
 ![image_lightbulb](image/Image_person_idea_lightbulb_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
-There are several reasons: First, you are the person who is most excited about your research, and you know which impact it can have on people’s lives! This means that you are the best person to let others know what you are working on, and explain to them in tangible ways why what you do matters. Keep in mind that this is a bit different than what reviewers expect when they ask you why the research gap you are closing matters: This is more about the implications of your findings. Think about why anyone who is not an expert in your filed, has read all recent articles and understands the literature should be excited, curious and wanting more!   
+There are several reasons: First, you are the person who is most excited about your research, and you know which impact it can have on people’s lives! This means that you are the best person to let others know what you are working on, and explain to them in tangible ways why what you do matters. Keep in mind that this is a bit different than what reviewers expect when they ask you why the research gap you are closing matters: This is more about the implications of your findings. Think about why anyone who is not an expert in your filed, has read all recent articles and understands the literature should be excited, curious and wanting more!  Watch the video below to dive deeper into the reasons why Science Communication matters!
 
 !?[⏯](video/course2-clip3.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
@@ -215,8 +215,7 @@ Visualisation of data is a powerful tool to present your results in a way your a
 
 !?[⏯](video/course2-clip5.mp4 "Excerpt from the Infra4NextGen webinar on [*Data Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
-
-What now makes a graph a good graph? Similarly, what makes a text a good text or a table a good table? In science communication you will always face the tradeoff between simplicity and complexity. Getting that balance right for your audience (non-academic, non-specialised, different method skills) is crucial to effective communication: It should reduce the complexity of what is shown in a manner that you can make sure your audience gets what you are saying! 
+What now makes a graph a good graph? Similarly, what makes a text a good text or a table a good table? In Science Communication you will always face the tradeoff between simplicity and complexity. Getting that balance right for your audience (non-academic, non-specialised, different method skills) is crucial to effective communication: It should reduce the complexity of what is shown in a manner that you can make sure your audience gets what you are saying! Watch the video below for more details about these questions:
 
 !?[⏯](video/course2-clip6.mp4 "Excerpt from the Infra4NextGen webinar on [*Data Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
@@ -242,7 +241,7 @@ Now, that you have settled on the who, how and why, the next crucial step is to 
 
 Publishing in this sense refers to a broad variety of activities – posting on social media, making videos and posting them to social media, giving interviews in news outlets, sending your policy briefs including policy recommendations to policy makers, going on your favourite podcast as a guest speaker, or attending a Science Slam.  
 
-![image_talking](image/Image_two people talking_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
+![image_talking](image/Image_two_people_talking_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
 One way to get started is to think where you access information, and how you could use those outlets to disseminate your findings in turn. 
 
@@ -262,7 +261,7 @@ You can use the checklists below to help you visualise your ideas.
 
 
 # Summary
-Congratulations! You completed the course “Science communcation”! In this course you learned about the basics of science communication, why it mattters, how it can benefit both you and others and the four questions to help you get started: who are you communicating to, how, why and where? 
+Congratulations! You completed the course “Science Communcation”! In this course you learned about the basics of science communication, why it mattters, how it can benefit both you and others and the four questions to help you get started: who are you communicating to, how, why and where? 
 
 You now have an overview over different possibilities and a checklist that you can use for your next communication effort. Check out the supporting resources section if you want to dive deeper into the topic, want to find and use templates and find and connect with colleagues! 
 
@@ -271,6 +270,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
