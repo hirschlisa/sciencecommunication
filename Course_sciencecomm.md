@@ -201,7 +201,9 @@ Different groups of different people have different skills. For the journalist i
  
 Another characteristic of your audience that matters is language: Different addresses speak and understand different languages. Here, it is important to think about the language you are communicating in in contrast to the language your audience speaks primarily, but also about the technicality of the language used. If you are a researcher in a non-English speaking country, and you want to communicate your findings on XXX something really interesting. Childrens’ learning speed in kindergarten. All the benefits children get from being outside. How to combat climate change. How to safe democracy XXX to the broader public, you should probably not do that in English, as you would usually do for your publications. In the same vein, avoiding technical terminology is a way to allow a broader audience to access, read, understand and access your findings.  
 
-Knowing who to address prevents speaking a language your audience does not understand.
+Knowing who to address prevents speaking a language your audience does not understand, so you prevent this situation: 
+
+![image_sweating](image/Image_sweating_bysketchify.png "by Sketchify" )
 
 ## 2.2. How? Methods and hard skills 
 
@@ -269,6 +271,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
