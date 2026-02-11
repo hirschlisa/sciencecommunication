@@ -153,12 +153,11 @@ Solution: Academic journals are not accessible to the wider public. Science comm
 Science communication is – in contrast to publications in high ranking academic journals – not awarded in the same way. So why should you do it then?  
 
 ![image_lightbulb](image/Image_person_idea_lightbulb_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
-
 There are several reasons: First, you are the person who is most excited about your research, and you know which impact it can have on people’s lives! This means that you are the best person to let others know what you are working on, and explain to them in tangible ways why what you do matters. Keep in mind that this is a bit different than what reviewers expect when they ask you why the research gap you are closing matters: This is more about the implications of your findings. Think about why anyone who is not an expert in your filed, has read all recent articles and understands the literature should be excited, curious and wanting more!  Watch the video below to dive deeper into the reasons why Science Communication matters!
 
 !?[⏯](video/course2-clip3.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
-Implications of research do not only matter to the individuals who are affected by them, but are also a way for policy makers to make more informed and thus better decisions for their constituents. Now, most policy makers do not have the capacity to keep If scientific findings are not communicated outside of academia, policy makers face the challenge to make decisions without evidence, and the public might have to rely on misinformation or lacks knowledge to adequately judge information.  
+Implications of research do not only matter to the individuals who are affected by them, but are also a way for policy makers to make more informed and thus better decisions for their constituents. Now, most policy makers do not have the capacity to keep up with the rapidly changing landscape of academic literature. Instead, they rely on researchers to brief them about findings. If scientific findings are not communicated outside of academia, policy makers face the challenge to make decisions without evidence, and the public might have to rely on misinformation or lacks knowledge to adequately judge information.  
 
 All of this does not mean that you should not work on your publication list, go to conferences, and establish your academic track record. After all, we know that these outputs are the indicators that will give you an academic job. But bringing your results closer to the people – whatever that means – benefits them, society as a whole and you! Additional outlets beyond academic publications are not only benefitting society but also you as a researcher: They allow you to be more visible, which in turn facilitates collaboration with other researchers, interested parties and the media. 
 
@@ -201,7 +200,7 @@ Who you are addressing by communicating your research results matters! Imagine a
 
 Different groups of different people have different skills. For the journalist in our scenario, understanding and interpreting regression tables and marginal effects plots is not possible because they do not have the skills. While basic data literacy is always good to have, even academics of different fields sometimes struggle to understand the way results are presented in other fields. In order to effectively communicate your findings in science communication, you need to take the skill level of your audience into account.  
  
-Another characteristic of your audience that matters is language: Different addresses speak and understand different languages. Here, it is important to think about the language you are communicating in in contrast to the language your audience speaks primarily, but also about the technicality of the language used. If you are a researcher in a non-English speaking country, and you want to communicate your findings on XXX something really interesting. Childrens’ learning speed in kindergarten. All the benefits children get from being outside. How to combat climate change. How to safe democracy XXX to the broader public, you should probably not do that in English, as you would usually do for your publications. In the same vein, avoiding technical terminology is a way to allow a broader audience to access, read, understand and access your findings.  
+Another characteristic of your audience that matters is language: Different addresses speak and understand different languages. Here, it is important to think about the language you are communicating in in contrast to the language your audience speaks primarily, but also about the technicality of the language used. If you are a researcher in a non-English speaking country, and you want to communicate your findings on interesting findings that have implications for society and people’s everyday lives - this could be anything from childrens’ learning trajectories in kindergarten, the benefits children get from playing outside, how to combat climate change or how to safeguard democracy against anti-democratic tendencies - to the broader public, you should probably not do that in English, as you would usually do for your publications. You will reach more people by communicating in the local language. In the same vein, avoid technical terminology as a way to allow a broader audience to access, read, understand and access your findings!
 
 Knowing who to address prevents speaking a language your audience does not understand, so you prevent this situation: 
 
@@ -283,6 +282,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
