@@ -97,7 +97,7 @@ Solution: Science Communcation allows knowledge to be distributed to the public,
 
 Imagine you just found a really interesting angle to your current article or data you are working on. Usually, you  present different stages of a draft at your department, visit other departments and go to conferences, write and publish an article in a well-regarded journal in your field. You spend a considerable amount of time discussing the details of your research question, the generalisability of results, your hypotheses and your results with colleagues who work on similar topics. Sometimes there is the chance to present your work in a more interdisciplinary setting, which allows you to get feedback from other academics in more or less adjacent fields. Even though the real-world implications of your work feature in the abract, or a newly written grant proposal, the typical audience of academic research and outputs is fairly small – and mostly other academics. 
 
-![image_pondering](image/Image_pondering_byM.WallflowerbyTrendify "By M. Wallflower by Trendify" )
+![image_pondering](image/Image_pondering_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
 But what more could you do? Your university might have a Third Mission statement that codifies how university should contribute to society. You might be working on a project together with citizen scientists that requires you to share results in a setting that is more than an academic conference. You might be an avid podcast listener and feel a call to share your work in a similar fashion with an interested audience. So, you ask yourself: what else is out there? 
 
@@ -213,12 +213,12 @@ Take a look at one of the Topline reports our colleagues produced. XXX You can s
 
 Visualisation of data is a powerful tool to present your results in a way your audience can easily digest and for you to get the information across. Let us take a look at what our experts have to say about what visualisations actually are:  
 
-!?[⏯](video/course2-clip5.mp4 "Excerpt from the Infra4NextGen webinar on [*DAta Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
+!?[⏯](video/course2-clip5.mp4 "Excerpt from the Infra4NextGen webinar on [*Data Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
 
 What now makes a graph a good graph? Similarly, what makes a text a good text or a table a good table? In science communication you will always face the tradeoff between simplicity and complexity. Getting that balance right for your audience (non-academic, non-specialised, different method skills) is crucial to effective communication: It should reduce the complexity of what is shown in a manner that you can make sure your audience gets what you are saying! 
 
-!?[⏯](video/course2-clip6.mp4 "Excerpt from the Infra4NextGen webinar on [*DAta Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
+!?[⏯](video/course2-clip6.mp4 "Excerpt from the Infra4NextGen webinar on [*Data Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
 Remember, when you communicate your research findings you are telling a story! The more engaging you combine visualisation, texts and tables the better your audience can follow you! Now, think back to the beginning of this course and the concept of frames. Here is where they become relevant to your work: How do you want to frame your research? What is the story you want to tell?  
 
@@ -271,6 +271,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
