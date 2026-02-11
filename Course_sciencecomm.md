@@ -100,7 +100,7 @@ Imagine you just found a really interesting angle to your current article or dat
 But what more could you do? Your university might have a Third Mission statement that codifies how university should contribute to society. You might be working on a project together with citizen scientists that requires you to share results in a setting that is more than an academic conference. You might be an avid podcast listener and feel a call to share your work in a similar fashion with an interested audience. So, you ask yourself: what else is out there? 
 
 You start to think about different, more creative ways to disseminate your research outputs: Going on a podcast, posting to various social media outlets, giving interviews to journalists, visualising your research findings in a dynamic dashboard, attending a Science Slam event in your area. 
-![image_lightbulb](Image_person_idea_lightbulb_byM.Wallflower by Trendify.png)
+![image_lightbulb](image/Image_person_idea_lightbulb_byM.Wallflower by Trendify.png "By M. Wallflower by Trendify" )
 
 The list is endless. Which target group can you now reach through these additional outlets?  By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it!  
 
@@ -267,6 +267,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
