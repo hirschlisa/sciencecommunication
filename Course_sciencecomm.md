@@ -20,7 +20,9 @@ This course introduces the basics of Science Communication and how to put these 
 
 [Section 3](#12): Checklist   
 
-[Summary](#X)
+[Summary](#13)
+
+[Bibliography](#14)
 
 Why should you take this course? Science communication is becoming increasingly important: Researchers are trained well in communicating their research results to other academics, but in order to combat common challenges like climate change, effective communication beyond the scientific community is crucial. If you want to learn more about how to make your research results have increased impact on society, this course is for you!  
 
@@ -268,9 +270,19 @@ You now have an overview over different possibilities and a checklist that you c
 We are continually updating the course and incorporating feedback, so please do not hesitate to contact us via [AUSSDA](mailto:info@aussda.at). If you are interested in live events hosted by the Infra4NextGen project, please visit the [I4NG events site](https://infra4nextgen.com/i4ng-events/forthcoming-events/) and come join us at one of our events - we are hosting webinars, workshops and datathons regularly!   
 
 
+<!-- style="background-color: #6EC7D9;"--> 
+>__Where to go from here?__
+>
+>  If you want to dive deeper into the theoretical background, go to the [bibliography](#14)
+> If you are interested in some examples how other researchers communicate their findings, head to [The Conversation](https://theconversation.com/europe).
+
+
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
 
+# Bibliography
+
+Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
 
 
 
