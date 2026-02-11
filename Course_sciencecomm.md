@@ -102,7 +102,6 @@ Imagine you just found a really interesting angle to your current article or dat
 But what more could you do? Your university might have a Third Mission statement that codifies how university should contribute to society. You might be working on a project together with citizen scientists that requires you to share results in a setting that is more than an academic conference. You might be an avid podcast listener and feel a call to share your work in a similar fashion with an interested audience. So, you ask yourself: what else is out there? 
 
 You start to think about different, more creative ways to disseminate your research outputs: Going on a podcast, posting to various social media outlets, giving interviews to journalists, visualising your research findings in a dynamic dashboard, attending a Science Slam event in your area. 
-![image_lightbulb](image/Image_person_idea_lightbulb_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
 The list is endless. Which target group can you now reach through these additional outlets?  By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it!  
 
@@ -150,6 +149,8 @@ Solution: Academic journals are not accessible to the wider public. Science comm
 
 ## 1.3. Why should I care about Science Communication?
 Science communication is – in contrast to publications in high ranking academic journals – not awarded in the same way. So why should you do it then?  
+
+![image_lightbulb](image/Image_person_idea_lightbulb_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
 There are several reasons: First, you are the person who is most excited about your research, and you know which impact it can have on people’s lives! This means that you are the best person to let others know what you are working on, and explain to them in tangible ways why what you do matters. Keep in mind that this is a bit different than what reviewers expect when they ask you why the research gap you are closing matters: This is more about the implications of your findings. Think about why anyone who is not an expert in your filed, has read all recent articles and understands the literature should be excited, curious and wanting more!   
 
@@ -200,7 +201,7 @@ Different groups of different people have different skills. For the journalist i
  
 Another characteristic of your audience that matters is language: Different addresses speak and understand different languages. Here, it is important to think about the language you are communicating in in contrast to the language your audience speaks primarily, but also about the technicality of the language used. If you are a researcher in a non-English speaking country, and you want to communicate your findings on XXX something really interesting. Childrens’ learning speed in kindergarten. All the benefits children get from being outside. How to combat climate change. How to safe democracy XXX to the broader public, you should probably not do that in English, as you would usually do for your publications. In the same vein, avoiding technical terminology is a way to allow a broader audience to access, read, understand and access your findings.  
 
- 
+Knowing who to address prevents speaking a language your audience does not understand.
 
 ## 2.2. How? Methods and hard skills 
 
@@ -227,11 +228,11 @@ There are a few possibilities here: You might simply want to convey information 
 
 Now think about another scenario with another audience: You want to inform policy makers so they can make more informed decisions: This is the basis for evidence-based policy making. 
 
-![image_speaker](Image_speaker_celebrated_bymagtiraPaolobySketchify.png "by magtira Paolo by Sketchify")
+![image_speaker](image/Image_speaker_celebrated_bymagtiraPaolobySketchify.png "by magtira Paolo by Sketchify" )
 
 You might also want to do take it a step further and do more than conveying information – you might want to call for action! After presenting your results, consider if there is an action that you think should be taken in accordance with your results. For example, in a video where you present your results on climate change, you could include a call to action to reduce carbon emissions by riding a bike to work instead of driving a car. In a policy brief where your lay out the same results to policy makers you could formulate a policy recommendation to push for policies that tax fossil fuels at a much higher rate than before – this would be a call to action for policy makers.  
 
-![image_loudspeaker](Image_shoutout_byAlaineGarciabySketchify.png "by Alaine Garcia by Sketchify")
+![image_loudspeaker](image/Image_shoutout_byAlaineGarciabySketchify.png "by Alaine Garcia by Sketchify" )
 
 ## 2.4. Where? Different formats and venues
 
@@ -239,7 +240,7 @@ Now, that you have settled on the who, how and why, the next crucial step is to 
 
 Publishing in this sense refers to a broad variety of activities – posting on social media, making videos and posting them to social media, giving interviews in news outlets, sending your policy briefs including policy recommendations to policy makers, going on your favourite podcast as a guest speaker, or attending a Science Slam.  
 
-[some visual, someone thinking about different possibilites: tv, text, presentation in front of people, smaller audience, all in thought bubbles] 
+![image_talking](image/Image_two people talking_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
 One way to get started is to think where you access information, and how you could use those outlets to disseminate your findings in turn. 
 
@@ -268,6 +269,7 @@ We are continually updating the course and incorporating feedback, so please do 
 
 ---
 ![Infra4NextGen Logo](images/Infra4NextGen_logo_resized.jpg  "https://infra4nextgen.com/") ![CESSDA Logo](images/cessda_logo.png  "https://www.cessda.eu/") 
+
 
 
 
