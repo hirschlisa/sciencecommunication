@@ -247,7 +247,7 @@ Publishing in this sense refers to a broad variety of activities – posting on 
 One way to get started is to think where you access information, and how you could use those outlets to disseminate your findings in turn. For example, if you use any Social Media platform you can create visuals to disseminate your findings: 
 
 ![image_talking](image/1_Intro_if_needed.png)
-![image_R](image/2_Rxandra.png)
+![image_R](image/2_Ruxandra.png)
 ![image_YD](image/3_Yuliya_David.png)
 ![image_Y](image/4_Yuliya.png)
 
@@ -287,6 +287,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
