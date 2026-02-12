@@ -244,7 +244,12 @@ Publishing in this sense refers to a broad variety of activities – posting on 
 
 ![image_talking](image/Image_two_people_talking_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
-One way to get started is to think where you access information, and how you could use those outlets to disseminate your findings in turn. 
+One way to get started is to think where you access information, and how you could use those outlets to disseminate your findings in turn. For example, if you use any Social Media platform you can create visuals to disseminate your findings: 
+
+![image_talking](image/1_Intro_if_needed.png)
+![image_R](image/2_Rxandra.png)
+![image_YD](image/3_Yuliya_David.png)
+![image_Y](image/4_Yuliya.png)
 
 <!-- style="background-color: #6EC7D9;"--> 
 > In this section, you learned about the who, how, why and where of Science Communication. You now understand the basics of Science Communcation, and we give the torch back to you to get started with your first project, to reach out to new audiences and disseminate your fidnings.
@@ -282,6 +287,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
