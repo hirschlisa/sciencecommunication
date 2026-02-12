@@ -65,9 +65,8 @@ In this section you will read up on the basics of Science Communication: what is
 ## 1.1 What is Science Communication?
 Science communication is all communication efforts about science, scientific results and findings. Communication research uses the concept of framing to underline that communication only gets meaning in its context and depends on how a message is being constructed – or “framed”. Take a look at different definitions below:  
 
-Gamson and Modigliani (1989): frames are ‘interpretative packages’ that give meaning to an issue 
-
-De Vreese 2005: a frame is an emphasis [...] of different aspects of a topic.  
+![image_mogliani](image/Image_Gamson_Modigliani.png)
+![image_devreese](image/Image_DeVreese.png)
 
 Listen what our experts have to say about the impact of Science Communication: 
 
@@ -287,6 +286,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
