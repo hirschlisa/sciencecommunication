@@ -395,7 +395,7 @@ Do you want to plan your communication strategy from the “how” first? Then c
   padding: 1em;
 }
 .flip-card-front {
-  background-color: #66B32F;
+  background-color: #FFED00;
 }
 .flip-card-front p {
   padding: 1em;
@@ -485,7 +485,7 @@ Is the goal the most important aspect to your communication strategy? Then click
   padding: 1em;
 }
 .flip-card-front {
-  background-color: #66B32F;
+  background-color: #E72E6B;
 }
 .flip-card-front p {
   padding: 1em;
@@ -567,7 +567,7 @@ If the first thing you want to settle on is the “where”, check out the cards
   padding: 1em;
 }
 .flip-card-front {
-  background-color: #66B32F;
+  background-color: #6EC7D9;
 }
 .flip-card-front p {
   padding: 1em;
@@ -643,6 +643,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
