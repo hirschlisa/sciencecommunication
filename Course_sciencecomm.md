@@ -38,7 +38,7 @@ By the end of the module, you will:
 
 * Identify which strategies of science communication fit your goals best 
 
-* Apply methods of science communication to effectively reach your intended targets  
+* Apply methods of science communication to effectively reach your intended target groups  
 
 <!-- style="background-color: #6EC7D9;"--> 
 > **Pre-requisites to the module**
@@ -86,7 +86,7 @@ In science communication, you can give meaning to your results by communicating 
 <!-- data-randomize -->
 Science communication... 
 - [[X]]  is the basis for societal development.
-- [[ ]]  is something the public has to ask for, otherwise noone will do it. 
+- [[ ]]  is something the public has to ask for, otherwise no one will do it. 
 - [[X]] goes beyond presenting my research results at conferences. 
 [[?]] Science Communication does not occur in a vacuum, think about the social setting researchers work in!
 [[?]] There are two correct answers.
@@ -96,15 +96,15 @@ Solution: Science Communcation allows knowledge to be distributed to the public,
 
 ## 1.2. How should I start to communicate science?
 
-Imagine you just found a really interesting angle to your current article or data you are working on. Usually, you  present different stages of a draft at your department, visit other departments and go to conferences, write and publish an article in a well-regarded journal in your field. You spend a considerable amount of time discussing the details of your research question, the generalisability of results, your hypotheses and your results with colleagues who work on similar topics. Sometimes there is the chance to present your work in a more interdisciplinary setting, which allows you to get feedback from other academics in more or less adjacent fields. Even though the real-world implications of your work feature in the abract, or a newly written grant proposal, the typical audience of academic research and outputs is fairly small – and mostly other academics. 
+Imagine you just found a really interesting angle to your current article or data you are working on. Usually, you present different stages of a draft at your department, visit other departments and go to conferences, write and publish an article in a well-regarded journal in your field. You spend a considerable amount of time discussing the details of your research question, the generalisability of results, your hypotheses and your results with colleagues who work on similar topics. Sometimes there is the chance to present your work in a more interdisciplinary setting, which allows you to get feedback from other academics in more or less adjacent fields. Even though the real-world implications of your work feature in the abstract, or a newly written grant proposal, the typical audience of academic research and outputs is fairly small – and mostly other academics. 
 
 ![image_pondering](image/Image_pondering_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
-But what more could you do? Your university might have a Third Mission statement that codifies how university should contribute to society. You might be working on a project together with citizen scientists that requires you to share results in a setting that is more than an academic conference. You might be an avid podcast listener and feel a call to share your work in a similar fashion with an interested audience. So, you ask yourself: what else is out there? 
+But what more could you do? Your university might have a Third Mission statement that codifies how the university should contribute to society. You might be working on a project together with citizen scientists that requires you to share results in a setting that is more than an academic conference. You might be an avid podcast listener and feel a call to share your work in a similar fashion with an interested audience. So, you ask yourself: what else is out there?
 
-You start to think about different, more creative ways to disseminate your research outputs: Going on a podcast, posting to various social media outlets, giving interviews to journalists, visualising your research findings in a dynamic dashboard, attending a Science Slam event in your area. 
+You start to think about different, more creative ways to disseminate your research outputs: Going on a podcast, posting to various social media outlets, giving interviews to journalists, visualising your research findings in a dynamic dashboard, attending a Science Slam event in your area.
 
-The list is endless. Which target group can you now reach through these additional outlets?  By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it!  Watch the video below to see what our experts think about why bringing research results to the public eye matters.
+The list is endless. Which target group can you now reach through these additional outlets? By expanding your means of communication in ways that focus on more than an academic audience, you can reach journalists, the interested public, young people, or non-academics. It allows you to communicate your research to the groups who are actually affected by it! Watch the video below to see what our experts think about why bringing research results to the public eye matters.
 
 !?[⏯](video/course2-clip2.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
@@ -191,17 +191,18 @@ Look at what our academic experts have identified as these obstacles:
 
 !?[⏯](video/course2-clip4.mp4 "Excerpt from the Infra4NextGen webinar on [*Bridging the gap*](https://www.youtube.com/watch?v=zZxtWySc2vI), speaker: Yuliya Kazakova, Netherlands Interdisciplinary Demographic Institute" )
 
-Read more on who to tackle these obstacles now and press [next](#8) to learn who to address, how, why and where! 
+Read more on how to tackle these obstacles now and press [next](#8) to learn who to address, how, why and where! 
 
 ## 2.1. Who? Your audience 
 
-Who you are addressing by communicating your research results matters! Imagine an investigative journalist who knows a lot about climate change and is really gifted in writing nail-biting in-depth articles and needs data on perceptions of climate change in the region they are covering as background material for their story. Now, they find a research article of yours – the title hints towards containing exactly what they need because your research was on how tax redistribution towards measures fighting climate change impacts public perception of climate threats, but when they want to read more than the abstract, they realise it is paywalled. Luckily, their employer has enough funds to pay for access to that one article, which they happily read. Upon getting to the results section, they stumble over tables and plots they do not understand. Frustrated, they give up and use another news article to back up theirs, but no primary research results.  
+Who you are addressing by communicating your research results matters! Imagine an investigative journalist who knows a lot about climate change and is really gifted in writing nail-biting in-depth articles and needs data on perceptions of climate change in the region they are covering as background material for their story. Now, they find a research article of yours – the title hints towards containing exactly what they need because your research was on how tax redistribution towards measures fighting climate change impacts public perception of climate threats, but when they want to read more than the abstract, they realise it is paywalled. Luckily, their employer has enough funds to pay for access to that one article, which they happily read. Upon getting to the results section, they stumble over tables and plots they do not understand. Frustrated, they give up and use another news article to back up theirs, but no primary research results.
 
-Different groups of different people have different skills. For the journalist in our scenario, understanding and interpreting regression tables and marginal effects plots is not possible because they do not have the skills. While basic data literacy is always good to have, even academics of different fields sometimes struggle to understand the way results are presented in other fields. In order to effectively communicate your findings in science communication, you need to take the skill level of your audience into account.  
- 
-Another characteristic of your audience that matters is language: Different addresses speak and understand different languages. Here, it is important to think about the language you are communicating in in contrast to the language your audience speaks primarily, but also about the technicality of the language used. If you are a researcher in a non-English speaking country, and you want to communicate your findings on interesting findings that have implications for society and people’s everyday lives - this could be anything from childrens’ learning trajectories in kindergarten, the benefits children get from playing outside, how to combat climate change or how to safeguard democracy against anti-democratic tendencies - to the broader public, you should probably not do that in English, as you would usually do for your publications. You will reach more people by communicating in the local language. In the same vein, avoid technical terminology as a way to allow a broader audience to access, read, understand and access your findings!
+Different groups of different people have different skills. For the journalist in our scenario, understanding and interpreting regression tables and marginal effects plots is not possible because they do not have the skills. While basic data literacy is always good to have, even academics of different fields sometimes struggle to understand the way results are presented in other fields. In another scenario, you might also be interested in communicating your findings to pupils – in order to foster trust in science and provide information to the next generation. These will have very different skill sets – and need a very different style of communication – than the journalists before. Policy makers could be another target group of yours that have yet another skill set they can rely on when reading, listening to or watching you! This means that in order to effectively communicate your findings in science communication, you need to take the skill level of your audience into account.
 
-Knowing who to address prevents speaking a language your audience does not understand, so you prevent this situation: 
+Another characteristic of your audience that matters is language: Different addressees speak and understand different languages. Here, it is important to think about the language you are communicating in in contrast to the language your audience speaks primarily, but also about the technicality of the language used. If you are a researcher in a non-English speaking country, and you want to communicate your findings on interesting results that have implications for society and people’s everyday lives - this could be anything from childrens’ learning trajectories in kindergarten, the benefits children get from playing outside, how to combat climate change or how to safeguard democracy against anti-democratic tendencies - to the broader public, you should probably not do that in English, as you would usually do for your publications. You will reach more people by communicating in the local language. In the same vein, avoid technical terminology as a way to allow a broader audience to access, read, understand and access your findings!
+
+Knowing who to address prevents speaking a language your audience does not understand, so you prevent this situation:
+
 
 ![image_sweating](image/Image_sweating_bysketchify.png "by Sketchify" )
 
@@ -219,7 +220,7 @@ What now makes a graph a good graph? Similarly, what makes a text a good text or
 
 !?[⏯](video/course2-clip6.mp4 "Excerpt from the Infra4NextGen webinar on [*Data Visualization with R Studio*](https://www.youtube.com/watch?v=Qz1Z855xPIg), speaker: Franz Eder, University of Innsbruck" )
 
-Remember, when you communicate your research findings you are telling a story! The more engaging you combine visualisation, texts and tables the better your audience can follow you! Now, think back to the beginning of this course and the concept of frames. Here is where they become relevant to your work: How do you want to frame your research? What is the story you want to tell?  
+Remember, when you communicate your research findings you are telling a story - and the more engaging you combine visualisation, texts and tables, the better your audience can follow you! Now, think back to the beginning of this course and the concept of frames. Here is where they become relevant to your work: How do you want to frame your research? What is the story you want to tell? While telling your story, do use examples and analogies that link your research findings to actual  experiences people have and make in their lives. Don’t be afraid this  could “dilute” your research or makes it banal. Instead, you emphasize  how your research is relevant beyond the scientific community. Ideally,  you will help to strengthen trust in science through convincing science  communication.   
 
 ## 2.3. Why? Your goal
 
@@ -231,7 +232,10 @@ Now think about another scenario with another audience: You want to inform polic
 
 ![image_speaker](image/Image_speaker_celebrated_bymagtiraPaolobySketchify.png "by magtira Paolo by Sketchify" )
 
-You might also want to do take it a step further and do more than conveying information – you might want to call for action! After presenting your results, consider if there is an action that you think should be taken in accordance with your results. For example, in a video where you present your results on climate change, you could include a call to action to reduce carbon emissions by riding a bike to work instead of driving a car. In a policy brief where your lay out the same results to policy makers you could formulate a policy recommendation to push for policies that tax fossil fuels at a much higher rate than before – this would be a call to action for policy makers.  
+Another one of your goals might be to strengthen the public’s trust in  science: You make transparent how you arrived at your research findings,  you might explain some ethical challenges and how you addressed them,  or may even share how one approach did not produce the results you  expected, so you had to modify your method. You explain that research is  a human process and lift the veil a little. 
+
+You might also want to do take it a step further and do more than conveying information – you might want to call for action! After presenting your results, consider if there is an action that you think should be taken in accordance with your results: What should people now do after they have learned about your results? For example, in a video where you present your results on climate change, you could include a call to action to reduce carbon emissions by riding a bike to work instead of driving a car. In a policy brief where your lay out the same results to policy makers you could formulate a policy recommendation to push for policies that tax fossil fuels at a much higher rate than before – this would be a call to action for policy makers.
+
 
 ![image_loudspeaker](image/Image_shoutout_byAlaineGarciabySketchify.png "by Alaine Garcia by Sketchify" )
 
@@ -239,19 +243,24 @@ You might also want to do take it a step further and do more than conveying info
 
 Now, that you have settled on the who, how and why, the next crucial step is to think about where to publish your work.  
 
-Publishing in this sense refers to a broad variety of activities – posting on social media, making videos and posting them to social media, giving interviews in news outlets, sending your policy briefs including policy recommendations to policy makers, going on your favourite podcast as a guest speaker, or attending a Science Slam.  
+Publishing in this sense refers to a broad variety of activities – posting on social media, making videos and posting them to social media, giving interviews in news outlets, sending your policy briefs including policy recommendations to policy makers, going on your favourite podcast as a guest speaker, or attending a Science Slam. Be proactive about reaching out to hosts, checking out local events and do not be afraid to dance your research! 
 
 ![image_talking](image/Image_two_people_talking_byM.WallflowerbyTrendify.png "By M. Wallflower by Trendify" )
 
-One way to get started is to think where you access information, and how you could use those outlets to disseminate your findings in turn. For example, if you use any Social Media platform you can create visuals to disseminate your findings: 
+One way to get started is to think where you access information, and how you could use these outlets to disseminate your findings in turn.  For example, if you use any Social Media platform you can create visuals to disseminate your findings: 
 
 ![image_talking](image/1_Intro_if_needed.png)
 ![image_R](image/2_Ruxandra.png)
 ![image_YD](image/3_Yuliya_David.png)
 ![image_Y](image/4_Yuliya.png)
 
+It is also helpful to consult people who are not researchers or academics or who are in a different age group than you or to directly contact your target group and ask them where they get information from, where  they learn about news and developments in science. Take into consideration that  “traditional” media such as the radio may also play an important role here. 
+
+Last, but not least: The who, why, how and where of Science Communication interact! Depending on the platform - and thus the target audience - you choose, the style of communication changes. Imagine a TikTok video in comparison to an interview on a radio show: One has more visual elements, is faster, the other one is more verbal, and most likely longer. Note: There is no “one better way” to engage in Science Communication – you just need to be intentional about it!
+
 <!-- style="background-color: #6EC7D9;"--> 
-> In this section, you learned about the who, how, why and where of Science Communication. You now understand the basics of Science Communcation, and we give the torch back to you to get started with your first project, to reach out to new audiences and disseminate your fidnings.
+> In this section, you learned about the who, how, why and where of Science Communication. You understand that the who, how, why and where interact and have a direct impact on your communication style! 
+> You now understand the basics of Science Communication, and we give the torch back to you to get started with your first project, to reach out to new audiences and disseminate your findings.
 >
 > Go to the [next section](#12) for a useful checklist, and practical tips and tools! 
 
@@ -263,6 +272,33 @@ You can use the checklists below to help you visualise your ideas.
 ** Who is your audience **
 - [ ]  policy makers 
 - [ ]  journalists
+- [ ]  Pupils / students
+- [ ] The general public
+
+** How **
+- [ ]  Data visualisation
+- [ ]  Text based for traditional media, news article, blog post
+- [ ]  Text for other outputs, science slam etc
+- [ ]  Video (audio and visuals)
+
+** Why **
+- [ ]  Provide information
+- [ ]  Increase information available to aid evidence-based policy making 
+
+** Where **
+- [ ]  Traditional media outlet: newspaper
+- [ ]  Traditional media outlet: radio
+- [ ]  New media outlet: podcast
+- [ ]  Social media outlet: video platform
+
+This checklist gives you an overview over your 
+Now, take a look at the suggestions below on how to start your science communication strategy! 
+
+First, pick an audience. Then flip the card to reveal where to start!
+
+Flipcard front: Students – Flipcard back: Select the “where”: If you want to present your findings in person, contact schools in your area! 
+
+
 
 
 # Summary
@@ -286,6 +322,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
