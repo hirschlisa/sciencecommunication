@@ -295,6 +295,71 @@ This checklist gives you an overview over your
 Now, take a look at the suggestions below on how to start your science communication strategy! 
 
 First, pick an audience. Then flip the card to reveal where to start!
+<lia-keep>
+<style>
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+  cursor: pointer;
+  margin: 20px auto;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  padding: 1em;
+}
+.flip-card-front {
+  background-color: #f9f9f9;
+}
+.flip-card-front p {
+  padding: 1em;
+}
+.flip-card-back {
+  background-color: #e1efef;
+  transform: rotateY(180deg);
+  display: block;
+}
+#flip-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+</style>
+<div id="flip-card-container">
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Policy makers</h3>
+      <div class="flip-card-back">
+        <h3>Findable</h3>
+        Start by boiling down your results to the core points you want policy makers to be informed about. 
+      </div>
+    </div>
+  </div>
+</div>
+</lia-keep>
 
 Flipcard front: Students – Flipcard back: Select the “where”: If you want to present your findings in person, contact schools in your area! 
 
@@ -322,6 +387,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
