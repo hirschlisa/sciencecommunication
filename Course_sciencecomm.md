@@ -331,7 +331,7 @@ First, pick an audience. Then flip the card to reveal where to start!
   padding: 1em;
 }
 .flip-card-front {
-  background-color: #2A49BE;
+  background-color: #66B32F;
 }
 .flip-card-front p {
   padding: 1em;
@@ -386,6 +386,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
