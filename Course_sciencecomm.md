@@ -331,13 +331,13 @@ First, pick an audience. Then flip the card to reveal where to start!
   padding: 1em;
 }
 .flip-card-front {
-  background-color: #f9f9f9;
+  background-color: #2A49BE;
 }
 .flip-card-front p {
   padding: 1em;
 }
 .flip-card-back {
-  background-color: #e1efef;
+  background-color: #6EC7D9;
   transform: rotateY(180deg);
   display: block;
 }
@@ -353,8 +353,7 @@ First, pick an audience. Then flip the card to reveal where to start!
     <div class="flip-card-inner">
       <h3 class="flip-card-front">Policy makers</h3>
       <div class="flip-card-back">
-        <h3>Findable</h3>
-        Start by boiling down your results to the core points you want policy makers to be informed about. 
+        Start by boiling down your results to the core points you want policy makers to be informed about. Present them in a concise and interesting way. Remember: time is precious for busy policy makers, so make your policy brief stand out! Then decide if you want to call for action, or simply inform them!
       </div>
     </div>
   </div>
@@ -387,6 +386,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
