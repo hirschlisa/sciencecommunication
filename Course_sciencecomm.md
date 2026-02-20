@@ -265,36 +265,10 @@ Last, but not least: The who, why, how and where of Science Communication intera
 > Go to the [next section](#12) for a useful checklist, and practical tips and tools! 
 
 
-# Checklist
-
-You can use the checklists below to help you visualise your ideas. 
-
-** Who is your audience **
-- [ ]  policy makers 
-- [ ]  journalists
-- [ ]  Pupils / students
-- [ ] The general public
-
-** How **
-- [ ]  Data visualisation
-- [ ]  Text based for traditional media, news article, blog post
-- [ ]  Text for other outputs, science slam etc
-- [ ]  Video (audio and visuals)
-
-** Why **
-- [ ]  Provide information
-- [ ]  Increase information available to aid evidence-based policy making 
-
-** Where **
-- [ ]  Traditional media outlet: newspaper
-- [ ]  Traditional media outlet: radio
-- [ ]  New media outlet: podcast
-- [ ]  Social media outlet: video platform
-
-This checklist gives you an overview over your 
-Now, take a look at the suggestions below on how to start your science communication strategy! 
+# Putting the big 4 into practice and getting started
 
 First, pick an audience. Then flip the card to reveal where to start!
+
 <lia-keep>
 <style>
 .flip-card {
@@ -357,13 +331,296 @@ First, pick an audience. Then flip the card to reveal where to start!
       </div>
     </div>
   </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Students</h3>
+      <div class="flip-card-back">
+        If you want to present your findings in person, contact schools in your area and ask if you can join classes. Present your findings in a way that directly relates to the lives of students! 
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Journalists </h3>
+      <div class="flip-card-back">
+        Boil down your results to a few key points, and present appealing visuals that journalists can directly use. Make sure to convince journalists of the news worthiness of your findings! 
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">The general public</h3>
+      <div class="flip-card-back">
+        As this is a more heterogenaous group, you need to be flexible about your communication strategy. Present your findings in a way that directly relates to the lives of people! 
+      </div>
+    </div>
+  </div>
 </div>
 </lia-keep>
 
-Flipcard front: Students – Flipcard back: Select the “where”: If you want to present your findings in person, contact schools in your area! 
+Do you want to plan your communication strategy from the “how” first? Then click on the cards below to start! 
+<lia-keep>
+<style>
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+  cursor: pointer;
+  margin: 20px auto;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  padding: 1em;
+}
+.flip-card-front {
+  background-color: #66B32F;
+}
+.flip-card-front p {
+  padding: 1em;
+}
+.flip-card-back {
+  background-color: #6EC7D9;
+  transform: rotateY(180deg);
+  display: block;
+}
+#flip-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+</style>
+<div id="flip-card-container">
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Visualisation </h3>
+      <div class="flip-card-back">
+        Do you want to communicate your findings in a static or dynamic visualisation? For static visualisations, digital displays on websites, blogs, or short videos, and analogue displays on posters work well. Dynamic visualisations get displayed best on websites, or in videos. Choose your output strategy accordingly.
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Text or audio for traditional and other media</h3>
+      <div class="flip-card-back">
+        Get in touch with the media outlet you are interested in and ask about the length of the interview they want, or the length of the blog post. Ask about how many minutes a radio interview or a podcast episode would be so you can tailor your presentation of results to that!
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Other text </h3>
+      <div class="flip-card-back">
+        Are you interested in attending a science slam? This text will be of a different format than the “usual” text you would produce for an interview. Go online and search for examples! 
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Video </h3>
+      <div class="flip-card-back">
+        If your intended mode of presentation is a video, pay attention to where it will be published and tailor your video to that platform. A TikTok video will be a lot shorter than another type of video. Will you present visualisations, graphics, or will it be you talking?  
+      </div>
+    </div>
+  </div>
+</div>
+</lia-keep>
 
+Is the goal the most important aspect to your communication strategy? Then click on the most fitting goal below to start your communication process: 
+<lia-keep>
+<style>
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+  cursor: pointer;
+  margin: 20px auto;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  padding: 1em;
+}
+.flip-card-front {
+  background-color: #66B32F;
+}
+.flip-card-front p {
+  padding: 1em;
+}
+.flip-card-back {
+  background-color: #6EC7D9;
+  transform: rotateY(180deg);
+  display: block;
+}
+#flip-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+</style>
+<div id="flip-card-container">
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Information </h3>
+      <div class="flip-card-back">
+        If your primary goal is to spread information, make sure you communicate clearly why that matters. Fighting misinformation and spreading awareness is generally well-accepted!
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Trust in science</h3>
+      <div class="flip-card-back">
+        If your main goal is to foster trust in science, you will focus on presenting your results in a way that showcases transparency, and explains why good scientific methods matter.
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Call for action</h3>
+      <div class="flip-card-back">
+        Including a call for action works for multiple target audiences, from the general public to policy makers. Make sure to tailor the call for action to what is actually in your target audience’s power to do!
+      </div>
+    </div>
+  </div>
+</div>
+</lia-keep>
 
+If the first thing you want to settle on is the “where”, check out the cards below to start your Science communication journey: 
+<lia-keep>
+<style>
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+  cursor: pointer;
+  margin: 20px auto;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  padding: 1em;
+}
+.flip-card-front {
+  background-color: #66B32F;
+}
+.flip-card-front p {
+  padding: 1em;
+}
+.flip-card-back {
+  background-color: #6EC7D9;
+  transform: rotateY(180deg);
+  display: block;
+}
+#flip-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+</style>
+<div id="flip-card-container">
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Traditional media </h3>
+      <div class="flip-card-back">
+        When traditional media outlets are the venue you want to choose, keep the most likely target audience in mind. Who is watching the TV show you want to go on? Who is reading the newspaper article? Who is listening to the radio show? Tailor your presentation to that and make sure to inquire about space and time limits before hand!
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Social media</h3>
+      <div class="flip-card-back">
+        Social media includes a broad variety of outlets and ranges from more text based platforms like BlueSky or LinkedIn to more video based platforms like TikTok or YouTube. Keep in mind that the style of both texts and videos changes dramatically between platforms because they cater to different audiences! 
+      </div>
+    </div>
+  </div>
+  <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Online</h3>
+      <div class="flip-card-back">
+        Online settings can vary widely, and include asynchronous activities like watching a video, but also can be live webinar settings. Depending on the setting, you can invite discussion and feedback from the audience, or need to be concise and sure you get your point across without direct feedback!
+      </div>
+    </div>
+  </div>
+    <div class="flip-card" onclick="this.classList.toggle('flipped')">
+    <div class="flip-card-inner">
+      <h3 class="flip-card-front">Face to face</h3>
+      <div class="flip-card-back">
+        Face to face settings vary from talks and interviews, to group settings, to settings that focus on performances like Science Slams. Pick these settings if you feel comfortable in these settings to make the most of your communication efforts!
+      </div>
+    </div>
+  </div>
+</div>
+</lia-keep>
 
+Now, you have all the tools to get started! Remember, there is no wrong way to do Science Communication! 
 
 # Summary
 Congratulations! You completed the course “Science Communcation”! In this course you learned about the basics of science communication, why it mattters, how it can benefit both you and others and the four questions to help you get started: who are you communicating to, how, why and where? 
@@ -386,6 +643,7 @@ We are continually updating the course and incorporating feedback, so please do 
 # Bibliography
 
 Reed, M.S. (2025). The Research Impact Handbook (3rd ed.). Routledge. https://doi.org/10.4324/9781003615019
+
 
 
 
